@@ -5,7 +5,7 @@ import HeroSection from "../components/HeroSection";
 const HomePage = () => {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="px-8">
         <HeroSection />
       </div>
